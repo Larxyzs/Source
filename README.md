@@ -1,2 +1,3 @@
-# Source
-Source Code Of My Name Sniper
+Source-code of my user sniper!
+
+Open main.bat!
